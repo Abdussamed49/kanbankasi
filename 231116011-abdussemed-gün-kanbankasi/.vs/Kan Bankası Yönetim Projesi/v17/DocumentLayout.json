@@ -1,0 +1,551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\hastalistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\hastalistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\kanstogu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\kanstogu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\kanstogu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\kanstogu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\kontrolpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\kontrolpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\kantransferi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\kantransferi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\kantransferi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\kantransferi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\kanbag\u0131s\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\kanbag\u0131s\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\donorlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\donorlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\donorlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\donorlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\adminlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\adminlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\kontrolpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\kontrolpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\hastalistesi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\hastalistesi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\hastalistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\hastalistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\gecis.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\gecis.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\kanbag\u0131s\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\kanbag\u0131s\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\abdus\\onedrive\\masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\kan bankas\u0131 y\u00F6netim projesi\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1322,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KanStogu.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanStogu.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanStogu.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanStogu.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanStogu.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:09:08.529Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KanStogu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanStogu.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanStogu.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanStogu.cs [Design]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanStogu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:46:30.464Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Gecis.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:37:57.882Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HastaListesi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.cs [Design]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:44:09.442Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Program.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Program.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Program.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:11:38.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Login.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Login.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Login.cs [Design]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T19:01:54.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KontrolPaneli.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KontrolPaneli.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KontrolPaneli.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KontrolPaneli.cs [Design]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KontrolPaneli.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:46:34.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KanTransferi.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanTransferi.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanTransferi.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanTransferi.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanTransferi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:05:20.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.cs [Design]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:23:44.52Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KanTransferi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanTransferi.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanTransferi.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanTransferi.cs [Design]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanTransferi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:22:21.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KanBag\u0131s\u0131.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanBag\u0131s\u0131.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanBag\u0131s\u0131.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanBag\u0131s\u0131.cs [Design]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanBag\u0131s\u0131.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:46:24.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hasta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Hasta.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Hasta.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Hasta.cs [Design]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Hasta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:46:38.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Gecis.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.cs [Design]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:13:13.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DonorListesi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\DonorListesi.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\DonorListesi.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\DonorListesi.cs [Design]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\DonorListesi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:46:35.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Donor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Donor.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Donor.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Donor.cs [Design]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Donor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T19:01:47.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Calisan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Calisan.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Calisan.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Calisan.cs [Design]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Calisan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T19:01:45.627Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AnaSayfa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AnaSayfa.cs [Design]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AnaSayfa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:34:58.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AnaSayfa.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AnaSayfa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:45:05.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:47:44.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Calisan.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Calisan.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Calisan.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Calisan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:09:55.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Kan Bankas\u0131 Y\u00F6netim Projesi",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T20:43:49.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Kan Bankas\u0131 Y\u00F6netim Projesi.csproj",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T19:36:52.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Login.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Login.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Login.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Login.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewBQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T19:09:09.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DonorListesi.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\DonorListesi.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\DonorListesi.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\DonorListesi.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\DonorListesi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:10:17.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Donor.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Donor.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Donor.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Donor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:27:10.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.Designer.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:33:23.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "KontrolPaneli.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KontrolPaneli.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KontrolPaneli.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KontrolPaneli.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KontrolPaneli.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:10:43.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HastaListesi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.Designer.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.Designer.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.Designer.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:04:28.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HastaListesi.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAWwKQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:05:17.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "KanBag\u0131s\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanBag\u0131s\u0131.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanBag\u0131s\u0131.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanBag\u0131s\u0131.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanBag\u0131s\u0131.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:08:57.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Hasta.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Hasta.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Hasta.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Hasta.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Hasta.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4v34AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:10:31.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Gecis.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.Designer.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.Designer.cs",
+              "ToolTip": "C:\\Users\\abdus\\OneDrive\\Masa\u00FCst\u00FC\\vize2\\231116011-abdussemed-g\u00FCn-kanbankasi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.Designer.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:22:14.067Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 71,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
